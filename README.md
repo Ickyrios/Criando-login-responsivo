@@ -1,3 +1,9 @@
+<img src="./problema.png" width="100%"/>
+
+  <h3 align="center">
+    Solução / Problema apresentado
+  </h3>
+
 # Tutorial login responsivo da  Giovanna moeller, @girl coding com algumas modificações
 
 Quando apliquei as modificações, ao abrir o index.html no windows, alguns elementos ficava fora de lugar,
